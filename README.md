@@ -1,4 +1,4 @@
-# LED-ON-OFF-Circuit-KiCad-
+# LED-ON-OFF-Circuit-KiCad
 A beginner PCB design project created using KiCad 9, demonstrating the complete process of designing a simple LED circuit and converting it into a PCB layout.
 
 I went through the PDF. It documents your **LED ON/OFF Circuit** project from schematic through PCB layout and the individual PCB layers. The PDF contains the circuit with **R1 = 330 Ω, D1 = LED, J1 = 2-pin connector, +5V and GND**, followed by the PCB layout and fabrication layers. 
